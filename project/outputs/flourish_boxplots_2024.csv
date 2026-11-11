@@ -1,0 +1,148 @@
+country,iso3,year,score,lo,hi,continent,region
+Afghanistan,AFG,2024,1.364,1.301,1.427,Asia,South Asia
+Albania,ALB,2024,5.411,5.284,5.539,Europe,Southern Europe
+United Arab Emirates,ARE,2024,6.759,6.673,6.846,Asia,Middle East & North Africa
+Argentina,ARG,2024,6.397,6.302,6.492,America,South America
+Armenia,ARM,2024,5.494,5.391,5.596,Asia,Middle East & North Africa
+Australia,AUS,2024,6.974,6.89,7.057,Oceania,Oceania
+Austria,AUT,2024,6.81,6.728,6.891,Europe,Northern & Western Europe
+Azerbaijan,AZE,2024,4.875,4.78,4.969,Asia,Middle East & North Africa
+Belgium,BEL,2024,6.91,6.845,6.974,Europe,Northern & Western Europe
+Benin,BEN,2024,4.357,4.222,4.492,Africa,Sub-Saharan Africa
+Burkina Faso,BFA,2024,4.383,4.26,4.506,Africa,Sub-Saharan Africa
+Bangladesh,BGD,2024,3.851,3.753,3.949,Asia,South Asia
+Bulgaria,BGR,2024,5.554,5.46,5.647,Europe,Eastern Europe
+Bahrain,BHR,2024,6.03,5.891,6.17,Asia,Middle East & North Africa
+Bosnia and Herzegovina,BIH,2024,6.136,6.039,6.234,Europe,Southern Europe
+Belize,BLZ,2024,6.711,6.432,6.989,America,Central America & Caribbean
+Bolivia,BOL,2024,5.868,5.758,5.977,America,South America
+Brazil,BRA,2024,6.494,6.394,6.593,America,South America
+Botswana,BWA,2024,3.438,3.301,3.576,Africa,Sub-Saharan Africa
+Canada,CAN,2024,6.803,6.718,6.888,America,North America
+Switzerland,CHE,2024,6.935,6.854,7.015,Europe,Northern & Western Europe
+Chile,CHL,2024,6.361,6.273,6.449,America,South America
+China,CHN,2024,5.921,5.819,6.023,Asia,East Asia
+Côte d’Ivoire,CIV,2024,5.102,4.967,5.238,Africa,Sub-Saharan Africa
+Cameroon,CMR,2024,4.887,4.767,5.007,Africa,Sub-Saharan Africa
+DR Congo,COD,2024,3.469,3.331,3.608,Africa,Sub-Saharan Africa
+Congo,COG,2024,5.03,4.855,5.205,Africa,Sub-Saharan Africa
+Colombia,COL,2024,6.004,5.897,6.112,America,South America
+Comoros,COM,2024,3.754,3.59,3.919,Africa,Sub-Saharan Africa
+Costa Rica,CRI,2024,7.274,7.187,7.361,America,Central America & Caribbean
+Cyprus,CYP,2024,5.942,5.827,6.058,Asia,Middle East & North Africa
+Czechia,CZE,2024,6.775,6.696,6.854,Europe,Eastern Europe
+Germany,DEU,2024,6.753,6.652,6.854,Europe,Northern & Western Europe
+Denmark,DNK,2024,7.521,7.431,7.611,Europe,Northern & Western Europe
+Dominican Republic,DOM,2024,5.846,5.705,5.988,America,Central America & Caribbean
+Algeria,DZA,2024,5.571,5.469,5.674,Africa,Middle East & North Africa
+Ecuador,ECU,2024,5.965,5.848,6.083,America,South America
+Egypt,EGY,2024,3.817,3.725,3.909,Africa,Middle East & North Africa
+Spain,ESP,2024,6.466,6.385,6.547,Europe,Southern Europe
+Estonia,EST,2024,6.417,6.337,6.497,Europe,Northern & Western Europe
+Ethiopia,ETH,2024,3.898,3.786,4.011,Africa,Sub-Saharan Africa
+Finland,FIN,2024,7.736,7.662,7.81,Europe,Northern & Western Europe
+France,FRA,2024,6.593,6.517,6.668,Europe,Northern & Western Europe
+Gabon,GAB,2024,5.12,4.985,5.256,Africa,Sub-Saharan Africa
+United Kingdom,GBR,2024,6.728,6.647,6.809,Europe,Northern & Western Europe
+Georgia,GEO,2024,5.4,5.304,5.496,Asia,Middle East & North Africa
+Ghana,GHA,2024,4.34,4.235,4.444,Africa,Sub-Saharan Africa
+Guinea,GIN,2024,4.929,4.787,5.07,Africa,Sub-Saharan Africa
+Gambia,GMB,2024,4.423,4.315,4.53,Africa,Sub-Saharan Africa
+Greece,GRC,2024,5.776,5.677,5.875,Europe,Southern Europe
+Guatemala,GTM,2024,6.362,6.222,6.503,America,Central America & Caribbean
+Hong Kong SAR of China,HKG,2024,5.491,5.417,5.566,Asia,East Asia
+Honduras,HND,2024,5.964,5.821,6.108,America,Central America & Caribbean
+Croatia,HRV,2024,5.87,5.777,5.963,Europe,Southern Europe
+Hungary,HUN,2024,5.915,5.809,6.02,Europe,Eastern Europe
+Indonesia,IDN,2024,5.617,5.516,5.717,Asia,Southeast Asia
+India,IND,2024,4.389,4.32,4.457,Asia,South Asia
+Ireland,IRL,2024,6.889,6.801,6.977,Europe,Northern & Western Europe
+Iran,IRN,2024,5.093,4.994,5.193,Asia,South Asia
+Iraq,IRQ,2024,4.976,4.866,5.085,Asia,Middle East & North Africa
+Iceland,ISL,2024,7.515,7.425,7.606,Europe,Northern & Western Europe
+Israel,ISR,2024,7.234,7.168,7.301,Asia,Middle East & North Africa
+Italy,ITA,2024,6.415,6.309,6.521,Europe,Southern Europe
+Jamaica,JAM,2024,5.87,5.563,6.178,America,Central America & Caribbean
+Jordan,JOR,2024,4.31,4.193,4.426,Asia,Middle East & North Africa
+Japan,JPN,2024,6.147,6.063,6.23,Asia,East Asia
+Kazakhstan,KAZ,2024,6.378,6.294,6.462,Asia,Central Asia
+Kenya,KEN,2024,4.51,4.384,4.636,Africa,Sub-Saharan Africa
+Kyrgyzstan,KGZ,2024,5.858,5.778,5.938,Asia,Central Asia
+Cambodia,KHM,2024,4.341,4.237,4.446,Asia,Southeast Asia
+Republic of Korea,KOR,2024,6.038,5.945,6.131,Asia,East Asia
+Kuwait,KWT,2024,6.629,6.52,6.738,Asia,Middle East & North Africa
+Lao PDR,LAO,2024,5.301,5.179,5.422,Asia,Southeast Asia
+Lebanon,LBN,2024,3.188,3.098,3.277,Asia,Middle East & North Africa
+Liberia,LBR,2024,4.277,4.111,4.444,Africa,Sub-Saharan Africa
+Libya,LBY,2024,5.82,5.727,5.913,Africa,Middle East & North Africa
+Sri Lanka,LKA,2024,3.891,3.78,4.001,Asia,South Asia
+Lesotho,LSO,2024,3.757,3.558,3.957,Africa,Sub-Saharan Africa
+Lithuania,LTU,2024,6.829,6.746,6.912,Europe,Northern & Western Europe
+Luxembourg,LUX,2024,7.122,7.031,7.213,Europe,Northern & Western Europe
+Latvia,LVA,2024,6.207,6.123,6.292,Europe,Northern & Western Europe
+Morocco,MAR,2024,4.622,4.509,4.736,Africa,Middle East & North Africa
+Republic of Moldova,MDA,2024,5.819,5.706,5.933,Europe,Eastern Europe
+Madagascar,MDG,2024,4.157,4.05,4.265,Africa,Sub-Saharan Africa
+Mexico,MEX,2024,6.979,6.889,7.068,America,Central America & Caribbean
+North Macedonia,MKD,2024,5.503,5.409,5.597,Europe,Southern Europe
+Mali,MLI,2024,4.345,4.232,4.457,Africa,Sub-Saharan Africa
+Malta,MLT,2024,6.316,6.234,6.398,Europe,Southern Europe
+Myanmar,MMR,2024,4.321,4.172,4.471,Asia,Southeast Asia
+Montenegro,MNE,2024,5.877,5.789,5.965,Europe,Southern Europe
+Mongolia,MNG,2024,5.833,5.747,5.919,Asia,East Asia
+Mozambique,MOZ,2024,5.19,5.004,5.376,Africa,Sub-Saharan Africa
+Mauritania,MRT,2024,4.542,4.408,4.676,Africa,Sub-Saharan Africa
+Mauritius,MUS,2024,5.832,5.715,5.948,Africa,Sub-Saharan Africa
+Malawi,MWI,2024,3.26,3.13,3.39,Africa,Sub-Saharan Africa
+Malaysia,MYS,2024,5.955,5.854,6.055,Asia,Southeast Asia
+Namibia,NAM,2024,4.911,4.797,5.025,Africa,Sub-Saharan Africa
+Niger,NER,2024,4.725,4.588,4.863,Africa,Sub-Saharan Africa
+Nigeria,NGA,2024,4.885,4.748,5.022,Africa,Sub-Saharan Africa
+Nicaragua,NIC,2024,6.33,6.186,6.475,America,Central America & Caribbean
+Netherlands,NLD,2024,7.306,7.24,7.372,Europe,Northern & Western Europe
+Norway,NOR,2024,7.262,7.171,7.353,Europe,Northern & Western Europe
+Nepal,NPL,2024,5.311,5.184,5.437,Asia,South Asia
+New Zealand,NZL,2024,6.952,6.874,7.031,Oceania,Oceania
+Oman,OMN,2024,6.197,5.973,6.42,Asia,Middle East & North Africa
+Pakistan,PAK,2024,4.768,4.644,4.892,Asia,South Asia
+Panama,PAN,2024,6.407,6.284,6.531,America,Central America & Caribbean
+Peru,PER,2024,5.947,5.844,6.049,America,South America
+Philippines,PHL,2024,6.107,5.994,6.22,Asia,Southeast Asia
+Poland,POL,2024,6.673,6.611,6.734,Europe,Eastern Europe
+Portugal,PRT,2024,6.013,5.907,6.118,Europe,Southern Europe
+Paraguay,PRY,2024,6.172,6.064,6.279,America,South America
+State of Palestine,PSE,2024,4.78,4.675,4.886,Asia,Middle East & North Africa
+Romania,ROU,2024,6.563,6.47,6.655,Europe,Eastern Europe
+Russian Federation,RUS,2024,5.945,5.865,6.026,Europe,Eastern Europe
+Saudi Arabia,SAU,2024,6.6,6.497,6.702,Asia,Middle East & North Africa
+Senegal,SEN,2024,4.856,4.732,4.979,Africa,Sub-Saharan Africa
+Singapore,SGP,2024,6.565,6.481,6.65,Asia,Southeast Asia
+Sierra Leone,SLE,2024,2.998,2.894,3.102,Africa,Sub-Saharan Africa
+El Salvador,SLV,2024,6.492,6.365,6.619,America,Central America & Caribbean
+Somalia,SOM,2024,4.347,4.203,4.49,Africa,Sub-Saharan Africa
+Serbia,SRB,2024,6.606,6.513,6.698,Europe,Southern Europe
+Slovakia,SVK,2024,6.221,6.154,6.288,Europe,Eastern Europe
+Slovenia,SVN,2024,6.792,6.695,6.889,Europe,Southern Europe
+Sweden,SWE,2024,7.345,7.262,7.427,Europe,Northern & Western Europe
+Eswatini,SWZ,2024,3.774,3.654,3.893,Africa,Sub-Saharan Africa
+Chad,TCD,2024,4.384,4.253,4.515,Africa,Sub-Saharan Africa
+Togo,TGO,2024,4.315,4.2,4.43,Africa,Sub-Saharan Africa
+Thailand,THA,2024,6.222,6.117,6.327,Asia,Southeast Asia
+Tajikistan,TJK,2024,5.411,5.337,5.485,Asia,Central Asia
+Trinidad and Tobago,TTO,2024,5.905,5.651,6.159,America,Central America & Caribbean
+Tunisia,TUN,2024,4.552,4.47,4.633,Africa,Middle East & North Africa
+Türkiye,TUR,2024,5.262,5.178,5.347,Asia,Middle East & North Africa
+Taiwan Province of China,TWN,2024,6.669,6.579,6.76,Asia,East Asia
+Tanzania,TZA,2024,3.8,3.661,3.938,Africa,Sub-Saharan Africa
+Uganda,UGA,2024,4.461,4.336,4.587,Africa,Sub-Saharan Africa
+Ukraine,UKR,2024,4.68,4.565,4.794,Europe,Eastern Europe
+Uruguay,URY,2024,6.661,6.578,6.743,America,South America
+United States,USA,2024,6.724,6.629,6.82,America,North America
+Uzbekistan,UZB,2024,6.193,6.088,6.297,Asia,Central Asia
+Venezuela,VEN,2024,5.683,5.57,5.796,America,South America
+Viet Nam,VNM,2024,6.352,6.28,6.424,Asia,Southeast Asia
+Kosovo,XKX,2024,6.659,6.557,6.761,Europe,Southern Europe
+Yemen,YEM,2024,3.561,3.408,3.714,Asia,Middle East & North Africa
+South Africa,ZAF,2024,5.213,5.086,5.339,Africa,Sub-Saharan Africa
+Zambia,ZMB,2024,3.912,3.769,4.056,Africa,Sub-Saharan Africa
+Zimbabwe,ZWE,2024,3.396,3.283,3.509,Africa,Sub-Saharan Africa

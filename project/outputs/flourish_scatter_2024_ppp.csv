@@ -1,0 +1,145 @@
+country,iso3,region,score,lo,hi,gdp_ppp,fit,gap,hw,group
+Afghanistan,AFG,South Asia,1.364,1.301,1.427,1964.452,3.876,-2.512,0.063,Less happy than predicted
+Albania,ALB,Southern Europe,5.411,5.284,5.539,21640.984,5.809,-0.398,0.127,Less happy than predicted
+United Arab Emirates,ARE,Middle East & North Africa,6.759,6.673,6.846,69701.786,6.751,0.008,0.087,Happier than predicted
+Argentina,ARG,South America,6.397,6.302,6.492,26771.966,5.98,0.417,0.095,Happier than predicted
+Armenia,ARM,Middle East & North Africa,5.494,5.391,5.596,20078.785,5.748,-0.254,0.103,Less happy than predicted
+Australia,AUS,Oceania,6.974,6.89,7.057,60309.583,6.634,0.34,0.084,Happier than predicted
+Austria,AUT,Northern & Western Europe,6.81,6.728,6.891,63787.989,6.68,0.13,0.082,Happier than predicted
+Azerbaijan,AZE,Middle East & North Africa,4.875,4.78,4.969,22090.53,5.825,-0.95,0.095,Less happy than predicted
+Belgium,BEL,Northern & Western Europe,6.91,6.845,6.974,63311.277,6.673,0.237,0.065,Happier than predicted
+Benin,BEN,Sub-Saharan Africa,4.357,4.222,4.492,3901.326,4.428,-0.071,0.135,Less happy than predicted
+Burkina Faso,BFA,Sub-Saharan Africa,4.383,4.26,4.506,2548.502,4.085,0.298,0.123,Happier than predicted
+Bangladesh,BGD,South Asia,3.851,3.753,3.949,8486.785,5.055,-1.204,0.098,Less happy than predicted
+Bulgaria,BGR,Eastern Europe,5.554,5.46,5.647,34221.387,6.178,-0.624,0.094,Less happy than predicted
+Bahrain,BHR,Middle East & North Africa,6.03,5.891,6.17,59060.182,6.618,-0.588,0.139,Less happy than predicted
+Bosnia and Herzegovina,BIH,Southern Europe,6.136,6.039,6.234,20578.5,5.768,0.368,0.098,Happier than predicted
+Belize,BLZ,Central America & Caribbean,6.711,6.432,6.989,12621.408,5.374,1.337,0.278,Happier than predicted
+Bolivia,BOL,South America,5.868,5.758,5.977,11329.152,5.287,0.581,0.11,Happier than predicted
+Brazil,BRA,South America,6.494,6.394,6.593,19652.365,5.731,0.763,0.099,Happier than predicted
+Botswana,BWA,Sub-Saharan Africa,3.438,3.301,3.576,18107.614,5.665,-2.227,0.137,Less happy than predicted
+Canada,CAN,North America,6.803,6.718,6.888,57534.092,6.596,0.207,0.085,Happier than predicted
+Switzerland,CHE,Northern & Western Europe,6.935,6.854,7.015,85448.059,6.915,0.02,0.08,Happier than predicted
+Chile,CHL,South America,6.361,6.273,6.449,30267.644,6.079,0.282,0.088,Happier than predicted
+China,CHN,East Asia,5.921,5.819,6.023,23841.477,5.887,0.034,0.102,Happier than predicted
+Côte d’Ivoire,CIV,Sub-Saharan Africa,5.102,4.967,5.238,6747.038,4.87,0.232,0.136,Happier than predicted
+Cameroon,CMR,Sub-Saharan Africa,4.887,4.767,5.007,4916.934,4.615,0.272,0.12,Happier than predicted
+DR Congo,COD,Sub-Saharan Africa,3.469,3.331,3.608,1601.709,3.711,-0.242,0.139,Less happy than predicted
+Congo,COG,Sub-Saharan Africa,5.03,4.855,5.205,6152.565,4.795,0.235,0.175,Happier than predicted
+Colombia,COL,South America,6.004,5.897,6.112,18481.837,5.682,0.322,0.107,Happier than predicted
+Comoros,COM,Sub-Saharan Africa,3.754,3.59,3.919,3556.038,4.354,-0.6,0.165,Less happy than predicted
+Costa Rica,CRI,Central America & Caribbean,7.274,7.187,7.361,27325.047,5.997,1.277,0.087,Happier than predicted
+Cyprus,CYP,Middle East & North Africa,5.942,5.827,6.058,52861.836,6.528,-0.586,0.115,Less happy than predicted
+Czechia,CZE,Eastern Europe,6.775,6.696,6.854,47972.532,6.45,0.325,0.079,Happier than predicted
+Germany,DEU,Northern & Western Europe,6.753,6.652,6.854,62654.602,6.665,0.088,0.101,Happier than predicted
+Denmark,DNK,Northern & Western Europe,7.521,7.431,7.611,71034.579,6.766,0.755,0.09,Happier than predicted
+Dominican Republic,DOM,Central America & Caribbean,5.846,5.705,5.988,24229.889,5.9,-0.054,0.142,Less happy than predicted
+Algeria,DZA,Middle East & North Africa,5.571,5.469,5.674,15501.92,5.54,0.031,0.103,Happier than predicted
+Ecuador,ECU,South America,5.965,5.848,6.083,13922.422,5.453,0.512,0.118,Happier than predicted
+Egypt,EGY,Middle East & North Africa,3.817,3.725,3.909,16798.152,5.605,-1.788,0.092,Less happy than predicted
+Spain,ESP,Southern Europe,6.466,6.385,6.547,48460.291,6.458,0.008,0.081,Happier than predicted
+Estonia,EST,Northern & Western Europe,6.417,6.337,6.497,41185.835,6.327,0.09,0.08,Happier than predicted
+Ethiopia,ETH,Sub-Saharan Africa,3.898,3.786,4.011,2892.222,4.187,-0.289,0.113,Less happy than predicted
+Finland,FIN,Northern & Western Europe,7.736,7.662,7.81,55901.32,6.573,1.163,0.074,Happier than predicted
+France,FRA,Northern & Western Europe,6.593,6.517,6.668,54799.348,6.557,0.036,0.075,Happier than predicted
+Gabon,GAB,Sub-Saharan Africa,5.12,4.985,5.256,18923.662,5.701,-0.581,0.135,Less happy than predicted
+United Kingdom,GBR,Northern & Western Europe,6.728,6.647,6.809,53412.065,6.537,0.191,0.081,Happier than predicted
+Georgia,GEO,Middle East & North Africa,5.4,5.304,5.496,24146.623,5.897,-0.497,0.096,Less happy than predicted
+Ghana,GHA,Sub-Saharan Africa,4.34,4.235,4.444,7072.799,4.908,-0.568,0.104,Less happy than predicted
+Guinea,GIN,Sub-Saharan Africa,4.929,4.787,5.07,4016.342,4.452,0.477,0.142,Happier than predicted
+Gambia,GMB,Sub-Saharan Africa,4.423,4.315,4.53,3057.684,4.232,0.191,0.107,Happier than predicted
+Greece,GRC,Southern Europe,5.776,5.677,5.875,37474.28,6.251,-0.475,0.099,Less happy than predicted
+Guatemala,GTM,Central America & Caribbean,6.362,6.222,6.503,12643.984,5.376,0.986,0.14,Happier than predicted
+Hong Kong SAR of China,HKG,East Asia,5.491,5.417,5.566,66186.045,6.709,-1.218,0.075,Less happy than predicted
+Honduras,HND,Central America & Caribbean,5.964,5.821,6.108,6590.844,4.851,1.113,0.143,Happier than predicted
+Croatia,HRV,Southern Europe,5.87,5.777,5.963,42828.8,6.359,-0.489,0.093,Less happy than predicted
+Hungary,HUN,Eastern Europe,5.915,5.809,6.02,40747.199,6.318,-0.403,0.105,Less happy than predicted
+Indonesia,IDN,Southeast Asia,5.617,5.516,5.717,14470.718,5.484,0.133,0.1,Happier than predicted
+India,IND,South Asia,4.389,4.32,4.457,9416.051,5.138,-0.749,0.068,Less happy than predicted
+Ireland,IRL,Northern & Western Europe,6.889,6.801,6.977,118833.312,7.181,-0.292,0.088,Less happy than predicted
+Iran,IRN,South Asia,5.093,4.994,5.193,17484.132,5.637,-0.544,0.099,Less happy than predicted
+Iraq,IRQ,Middle East & North Africa,4.976,4.866,5.085,12725.043,5.381,-0.405,0.11,Less happy than predicted
+Iceland,ISL,Northern & Western Europe,7.515,7.425,7.606,68230.357,6.734,0.781,0.091,Happier than predicted
+Israel,ISR,Middle East & North Africa,7.234,7.168,7.301,47388.724,6.44,0.794,0.066,Happier than predicted
+Italy,ITA,Southern Europe,6.415,6.309,6.521,53284.875,6.535,-0.12,0.106,Less happy than predicted
+Jamaica,JAM,Central America & Caribbean,5.87,5.563,6.178,11340.264,5.288,0.582,0.308,Happier than predicted
+Jordan,JOR,Middle East & North Africa,4.31,4.193,4.426,10468.265,5.224,-0.914,0.117,Less happy than predicted
+Japan,JPN,East Asia,6.147,6.063,6.23,47479.845,6.442,-0.295,0.084,Less happy than predicted
+Kazakhstan,KAZ,Central Asia,6.378,6.294,6.462,35973.963,6.218,0.16,0.084,Happier than predicted
+Kenya,KEN,Sub-Saharan Africa,4.51,4.384,4.636,5841.599,4.754,-0.244,0.126,Less happy than predicted
+Kyrgyzstan,KGZ,Central Asia,5.858,5.778,5.938,7210.577,4.923,0.935,0.08,Happier than predicted
+Cambodia,KHM,Southeast Asia,4.341,4.237,4.446,7011.581,4.901,-0.56,0.104,Less happy than predicted
+Republic of Korea,KOR,East Asia,6.038,5.945,6.131,55070.939,6.561,-0.523,0.093,Less happy than predicted
+Kuwait,KWT,Middle East & North Africa,6.629,6.52,6.738,46664.22,6.428,0.201,0.109,Happier than predicted
+Lao PDR,LAO,Southeast Asia,5.301,5.179,5.422,8600.325,5.065,0.236,0.121,Happier than predicted
+Lebanon,LBN,Middle East & North Africa,3.188,3.098,3.277,10469.221,5.224,-2.036,0.09,Less happy than predicted
+Liberia,LBR,Sub-Saharan Africa,4.277,4.111,4.444,1646.059,3.733,0.544,0.167,Happier than predicted
+Libya,LBY,Middle East & North Africa,5.82,5.727,5.913,12583.834,5.372,0.448,0.093,Happier than predicted
+Sri Lanka,LKA,South Asia,3.891,3.78,4.001,13793.067,5.446,-1.555,0.111,Less happy than predicted
+Lesotho,LSO,Sub-Saharan Africa,3.757,3.558,3.957,2697.627,4.131,-0.374,0.2,Less happy than predicted
+Lithuania,LTU,Northern & Western Europe,6.829,6.746,6.912,47462.004,6.441,0.388,0.083,Happier than predicted
+Luxembourg,LUX,Northern & Western Europe,7.122,7.031,7.213,128475.284,7.244,-0.122,0.091,Less happy than predicted
+Latvia,LVA,Northern & Western Europe,6.207,6.123,6.292,37615.076,6.254,-0.047,0.084,Less happy than predicted
+Morocco,MAR,Middle East & North Africa,4.622,4.509,4.736,9162.747,5.116,-0.494,0.113,Less happy than predicted
+Republic of Moldova,MDA,Eastern Europe,5.819,5.706,5.933,16393.863,5.585,0.234,0.113,Happier than predicted
+Madagascar,MDG,Sub-Saharan Africa,4.157,4.05,4.265,1659.15,3.74,0.417,0.107,Happier than predicted
+Mexico,MEX,Central America & Caribbean,6.979,6.889,7.068,21970.352,5.821,1.158,0.089,Happier than predicted
+North Macedonia,MKD,Southern Europe,5.503,5.409,5.597,24203.186,5.899,-0.396,0.094,Less happy than predicted
+Mali,MLI,Sub-Saharan Africa,4.345,4.232,4.457,2917.932,4.195,0.15,0.112,Happier than predicted
+Malta,MLT,Southern Europe,6.316,6.234,6.398,62398.489,6.662,-0.346,0.082,Less happy than predicted
+Myanmar,MMR,Southeast Asia,4.321,4.172,4.471,5276.294,4.672,-0.351,0.15,Less happy than predicted
+Montenegro,MNE,Southern Europe,5.877,5.789,5.965,28105.593,6.019,-0.142,0.088,Less happy than predicted
+Mongolia,MNG,East Asia,5.833,5.747,5.919,16842.651,5.607,0.226,0.086,Happier than predicted
+Mozambique,MOZ,Sub-Saharan Africa,5.19,5.004,5.376,1500.708,3.659,1.531,0.186,Happier than predicted
+Mauritania,MRT,Sub-Saharan Africa,4.542,4.408,4.676,6482.69,4.838,-0.296,0.134,Less happy than predicted
+Mauritius,MUS,Sub-Saharan Africa,5.832,5.715,5.948,27844.896,6.012,-0.18,0.117,Less happy than predicted
+Malawi,MWI,Sub-Saharan Africa,3.26,3.13,3.39,1634.247,3.728,-0.468,0.13,Less happy than predicted
+Malaysia,MYS,Southeast Asia,5.955,5.854,6.055,34116.232,6.175,-0.22,0.1,Less happy than predicted
+Namibia,NAM,Sub-Saharan Africa,4.911,4.797,5.025,10276.369,5.209,-0.298,0.114,Less happy than predicted
+Niger,NER,Sub-Saharan Africa,4.725,4.588,4.863,1795.653,3.803,0.922,0.138,Happier than predicted
+Nigeria,NGA,Sub-Saharan Africa,4.885,4.748,5.022,7994.038,5.006,-0.121,0.137,Less happy than predicted
+Nicaragua,NIC,Central America & Caribbean,6.33,6.186,6.475,7661.094,4.972,1.358,0.144,Happier than predicted
+Netherlands,NLD,Northern & Western Europe,7.306,7.24,7.372,70493.905,6.76,0.546,0.066,Happier than predicted
+Norway,NOR,Northern & Western Europe,7.262,7.171,7.353,94803.67,6.999,0.263,0.091,Happier than predicted
+Nepal,NPL,South Asia,5.311,5.184,5.437,5047.424,4.636,0.675,0.127,Happier than predicted
+New Zealand,NZL,Oceania,6.952,6.874,7.031,48325.365,6.456,0.496,0.079,Happier than predicted
+Oman,OMN,Middle East & North Africa,6.197,5.973,6.42,36721.08,6.235,-0.038,0.224,Less happy than predicted
+Pakistan,PAK,South Asia,4.768,4.644,4.892,5502.074,4.705,0.063,0.124,Happier than predicted
+Panama,PAN,Central America & Caribbean,6.407,6.284,6.531,36394.924,6.227,0.18,0.123,Happier than predicted
+Peru,PER,South America,5.947,5.844,6.049,15708.833,5.551,0.396,0.103,Happier than predicted
+Philippines,PHL,Southeast Asia,6.107,5.994,6.22,10378.172,5.217,0.89,0.113,Happier than predicted
+Poland,POL,Eastern Europe,6.673,6.611,6.734,45153.044,6.401,0.272,0.062,Happier than predicted
+Portugal,PRT,Southern Europe,6.013,5.907,6.118,42228.158,6.347,-0.334,0.106,Less happy than predicted
+Paraguay,PRY,South America,6.172,6.064,6.279,16367.494,5.584,0.588,0.107,Happier than predicted
+State of Palestine,PSE,Middle East & North Africa,4.78,4.675,4.886,4190.909,4.486,0.294,0.106,Happier than predicted
+Romania,ROU,Eastern Europe,6.563,6.47,6.655,40503.832,6.314,0.249,0.093,Happier than predicted
+Russian Federation,RUS,Eastern Europe,5.945,5.865,6.026,41891.172,6.341,-0.396,0.08,Less happy than predicted
+Saudi Arabia,SAU,Middle East & North Africa,6.6,6.497,6.702,63194.433,6.672,-0.072,0.103,Less happy than predicted
+Senegal,SEN,Sub-Saharan Africa,4.856,4.732,4.979,4477.817,4.54,0.316,0.123,Happier than predicted
+Singapore,SGP,Southeast Asia,6.565,6.481,6.65,134548.764,7.281,-0.716,0.085,Less happy than predicted
+Sierra Leone,SLE,Sub-Saharan Africa,2.998,2.894,3.102,3098.763,4.243,-1.245,0.104,Less happy than predicted
+El Salvador,SLV,Central America & Caribbean,6.492,6.365,6.619,11647.023,5.31,1.182,0.127,Happier than predicted
+Somalia,SOM,Sub-Saharan Africa,4.347,4.203,4.49,1409.335,3.608,0.739,0.143,Happier than predicted
+Serbia,SRB,Southern Europe,6.606,6.513,6.698,26900.742,5.984,0.622,0.093,Happier than predicted
+Slovakia,SVK,Eastern Europe,6.221,6.154,6.288,40302.451,6.31,-0.089,0.067,Less happy than predicted
+Slovenia,SVN,Southern Europe,6.792,6.695,6.889,48658.027,6.461,0.331,0.097,Happier than predicted
+Sweden,SWE,Northern & Western Europe,7.345,7.262,7.427,62558.407,6.664,0.681,0.083,Happier than predicted
+Eswatini,SWZ,Sub-Saharan Africa,3.774,3.654,3.893,10386.215,5.217,-1.443,0.119,Less happy than predicted
+Chad,TCD,Sub-Saharan Africa,4.384,4.253,4.515,2430.733,4.047,0.337,0.131,Happier than predicted
+Togo,TGO,Sub-Saharan Africa,4.315,4.2,4.43,3351.25,4.306,0.009,0.115,Happier than predicted
+Thailand,THA,Southeast Asia,6.222,6.117,6.327,21882.214,5.818,0.404,0.105,Happier than predicted
+Tajikistan,TJK,Central Asia,5.411,5.337,5.485,4755.933,4.588,0.823,0.074,Happier than predicted
+Trinidad and Tobago,TTO,Central America & Caribbean,5.905,5.651,6.159,31960.157,6.123,-0.218,0.254,Less happy than predicted
+Tunisia,TUN,Middle East & North Africa,4.552,4.47,4.633,12774.916,5.384,-0.832,0.082,Less happy than predicted
+Türkiye,TUR,Middle East & North Africa,5.262,5.178,5.347,36154.49,6.222,-0.96,0.085,Less happy than predicted
+Tanzania,TZA,Sub-Saharan Africa,3.8,3.661,3.938,3713.263,4.389,-0.589,0.139,Less happy than predicted
+Uganda,UGA,Sub-Saharan Africa,4.461,4.336,4.587,2879.67,4.184,0.277,0.125,Happier than predicted
+Ukraine,UKR,Eastern Europe,4.68,4.565,4.794,16371.441,5.584,-0.904,0.114,Less happy than predicted
+Uruguay,URY,South America,6.661,6.578,6.743,32149.48,6.128,0.533,0.083,Happier than predicted
+United States,USA,North America,6.724,6.629,6.82,75698.177,6.817,-0.093,0.096,Less happy than predicted
+Uzbekistan,UZB,Central Asia,6.193,6.088,6.297,10997.171,5.263,0.93,0.104,Happier than predicted
+Viet Nam,VNM,Southeast Asia,6.352,6.28,6.424,14396.422,5.48,0.872,0.072,Happier than predicted
+Kosovo,XKX,Southern Europe,6.659,6.557,6.761,15716.293,5.551,1.108,0.102,Happier than predicted
+South Africa,ZAF,Sub-Saharan Africa,5.213,5.086,5.339,13597.654,5.434,-0.221,0.127,Less happy than predicted
+Zambia,ZMB,Sub-Saharan Africa,3.912,3.769,4.056,3708.069,4.388,-0.476,0.143,Less happy than predicted
+Zimbabwe,ZWE,Sub-Saharan Africa,3.396,3.283,3.509,5211.898,4.662,-1.266,0.113,Less happy than predicted

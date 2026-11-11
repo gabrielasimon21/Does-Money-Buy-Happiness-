@@ -1,0 +1,142 @@
+country,iso3,profile,gap,score,gdp_ppp,silhouette,is_italy
+Afghanistan,AFG,"Long-lived, less free",-2.487,1.364,1964.452,0.215,False
+Albania,ALB,"Long-lived, less free",-0.392,5.411,21640.984,0.054,False
+United Arab Emirates,ARE,Generous and trusting,0.004,6.759,69701.786,0.044,False
+Argentina,ARG,"Close ties, weak trust and health",0.421,6.397,26771.966,0.419,False
+Armenia,ARM,"Long-lived, less free",-0.248,5.494,20078.785,0.151,False
+Australia,AUS,Generous and trusting,0.337,6.974,60309.583,0.384,False
+Austria,AUT,Generous and trusting,0.127,6.81,63787.989,0.366,False
+Azerbaijan,AZE,"Long-lived, less free",-0.945,4.875,22090.53,0.228,False
+Belgium,BEL,Generous and trusting,0.233,6.91,63311.277,0.314,False
+Benin,BEN,"Long-lived, less free",-0.052,4.357,3901.326,0.142,False
+Burkina Faso,BFA,Generous and trusting,0.32,4.383,2548.502,0.323,False
+Bangladesh,BGD,"Long-lived, less free",-1.191,3.851,8486.785,0.1,False
+Bulgaria,BGR,"Close ties, weak trust and health",-0.622,5.554,34221.387,0.412,False
+Bahrain,BHR,"Close ties, weak trust and health",-0.59,6.03,59060.182,0.112,False
+Bosnia and Herzegovina,BIH,"Close ties, weak trust and health",0.374,6.136,20578.5,0.07,False
+Belize,BLZ,"Close ties, weak trust and health",1.347,6.711,12621.408,0.125,False
+Bolivia,BOL,"Close ties, weak trust and health",0.591,5.868,11329.152,0.461,False
+Brazil,BRA,"Close ties, weak trust and health",0.769,6.494,19652.365,0.351,False
+Botswana,BWA,"Close ties, weak trust and health",-2.22,3.438,18107.614,0.259,False
+Canada,CAN,Generous and trusting,0.204,6.803,57534.092,0.367,False
+Switzerland,CHE,Generous and trusting,0.014,6.935,85448.059,0.308,False
+Chile,CHL,"Close ties, weak trust and health",0.285,6.361,30267.644,0.213,False
+China,CHN,"Long-lived, less free",0.039,5.921,23841.477,0.164,False
+Côte d’Ivoire,CIV,"Close ties, weak trust and health",0.247,5.102,6747.038,0.093,False
+Cameroon,CMR,"Close ties, weak trust and health",0.29,4.887,4916.934,0.297,False
+DR Congo,COD,Generous and trusting,-0.216,3.469,1601.709,0.185,False
+Congo,COG,"Long-lived, less free",0.25,5.03,6152.565,0.042,False
+Colombia,COL,"Close ties, weak trust and health",0.329,6.004,18481.837,0.318,False
+Comoros,COM,"Long-lived, less free",-0.58,3.754,3556.038,0.31,False
+Costa Rica,CRI,"Close ties, weak trust and health",1.281,7.274,27325.047,0.164,False
+Cyprus,CYP,"Long-lived, less free",-0.588,5.942,52861.836,0.211,False
+Czechia,CZE,"Close ties, weak trust and health",0.324,6.775,47972.532,0.298,False
+Germany,DEU,Generous and trusting,0.085,6.753,62654.602,0.368,False
+Denmark,DNK,Generous and trusting,0.751,7.521,71034.579,0.371,False
+Dominican Republic,DOM,"Close ties, weak trust and health",-0.049,5.846,24229.889,0.139,False
+Algeria,DZA,"Long-lived, less free",0.039,5.571,15501.92,0.21,False
+Ecuador,ECU,"Long-lived, less free",0.521,5.965,13922.422,0.062,False
+Egypt,EGY,"Long-lived, less free",-1.78,3.817,16798.152,0.021,False
+Spain,ESP,"Long-lived, less free",0.007,6.466,48460.291,-0.028,False
+Estonia,EST,Generous and trusting,0.09,6.417,41185.835,0.271,False
+Ethiopia,ETH,Generous and trusting,-0.268,3.898,2892.222,0.225,False
+Finland,FIN,Generous and trusting,1.161,7.736,55901.32,0.317,False
+France,FRA,"Long-lived, less free",0.034,6.593,54799.348,0.054,False
+Gabon,GAB,"Close ties, weak trust and health",-0.574,5.12,18923.662,0.253,False
+United Kingdom,GBR,Generous and trusting,0.19,6.728,53412.065,0.407,False
+Georgia,GEO,"Close ties, weak trust and health",-0.492,5.4,24146.623,0.214,False
+Ghana,GHA,"Close ties, weak trust and health",-0.553,4.34,7072.799,0.098,False
+Guinea,GIN,Generous and trusting,0.496,4.929,4016.342,0.06,False
+Gambia,GMB,Generous and trusting,0.212,4.423,3057.684,0.244,False
+Greece,GRC,"Long-lived, less free",-0.474,5.776,37474.28,0.175,False
+Guatemala,GTM,"Close ties, weak trust and health",0.996,6.362,12643.984,0.389,False
+Hong Kong SAR of China,HKG,"Long-lived, less free",-1.222,5.491,66186.045,0.072,False
+Honduras,HND,Generous and trusting,1.128,5.964,6590.844,0.041,False
+Croatia,HRV,"Long-lived, less free",-0.489,5.87,42828.8,-0.04,False
+Hungary,HUN,"Close ties, weak trust and health",-0.403,5.915,40747.199,0.38,False
+Indonesia,IDN,Generous and trusting,0.141,5.617,14470.718,0.139,False
+India,IND,"Close ties, weak trust and health",-0.737,4.389,9416.051,0.06,False
+Ireland,IRL,Generous and trusting,-0.3,6.889,118833.312,0.333,False
+Iran,IRN,"Long-lived, less free",-0.537,5.093,17484.132,-0.006,False
+Iraq,IRQ,"Long-lived, less free",-0.395,4.976,12725.043,0.131,False
+Iceland,ISL,Generous and trusting,0.777,7.515,68230.357,0.286,False
+Israel,ISR,Generous and trusting,0.793,7.234,47388.724,0.183,False
+Italy,ITA,"Long-lived, less free",-0.121,6.415,53284.875,0.166,True
+Jamaica,JAM,"Close ties, weak trust and health",0.593,5.87,11340.264,0.27,False
+Jordan,JOR,"Long-lived, less free",-0.902,4.31,10468.265,0.068,False
+Japan,JPN,"Long-lived, less free",-0.296,6.147,47479.845,0.214,False
+Kazakhstan,KAZ,"Close ties, weak trust and health",0.161,6.378,35973.963,0.37,False
+Kenya,KEN,Generous and trusting,-0.228,4.51,5841.599,0.226,False
+Kyrgyzstan,KGZ,Generous and trusting,0.949,5.858,7210.577,0.151,False
+Cambodia,KHM,Generous and trusting,-0.545,4.341,7011.581,0.122,False
+Republic of Korea,KOR,"Long-lived, less free",-0.525,6.038,55070.939,0.322,False
+Kuwait,KWT,Generous and trusting,0.201,6.629,46664.22,0.154,False
+Lao PDR,LAO,Generous and trusting,0.249,5.301,8600.325,0.244,False
+Lebanon,LBN,"Long-lived, less free",-2.024,3.188,10469.221,0.192,False
+Liberia,LBR,Generous and trusting,0.57,4.277,1646.059,0.246,False
+Libya,LBY,Generous and trusting,0.458,5.82,12583.834,0.173,False
+Sri Lanka,LKA,"Close ties, weak trust and health",-1.546,3.891,13793.067,0.18,False
+Lesotho,LSO,"Close ties, weak trust and health",-0.352,3.757,2697.627,0.379,False
+Lithuania,LTU,"Close ties, weak trust and health",0.387,6.829,47462.004,0.34,False
+Luxembourg,LUX,Generous and trusting,-0.131,7.122,128475.284,0.158,False
+Latvia,LVA,"Close ties, weak trust and health",-0.046,6.207,37615.076,0.429,False
+Morocco,MAR,"Long-lived, less free",-0.482,4.622,9162.747,0.226,False
+Republic of Moldova,MDA,"Close ties, weak trust and health",0.242,5.819,16393.863,0.474,False
+Madagascar,MDG,"Long-lived, less free",0.444,4.157,1659.15,0.089,False
+Mexico,MEX,"Close ties, weak trust and health",1.163,6.979,21970.352,0.348,False
+North Macedonia,MKD,"Close ties, weak trust and health",-0.391,5.503,24203.186,0.294,False
+Mali,MLI,Generous and trusting,0.172,4.345,2917.932,0.029,False
+Malta,MLT,Generous and trusting,-0.349,6.316,62398.489,0.182,False
+Myanmar,MMR,Generous and trusting,-0.334,4.321,5276.294,0.271,False
+Montenegro,MNE,"Close ties, weak trust and health",-0.139,5.877,28105.593,0.31,False
+Mongolia,MNG,"Close ties, weak trust and health",0.234,5.833,16842.651,0.165,False
+Mozambique,MOZ,Generous and trusting,1.558,5.19,1500.708,0.127,False
+Mauritania,MRT,"Long-lived, less free",-0.28,4.542,6482.69,0.244,False
+Mauritius,MUS,"Close ties, weak trust and health",-0.176,5.832,27844.896,0.272,False
+Malawi,MWI,"Long-lived, less free",-0.441,3.26,1634.247,-0.041,False
+Malaysia,MYS,"Close ties, weak trust and health",-0.219,5.955,34116.232,0.106,False
+Namibia,NAM,"Close ties, weak trust and health",-0.286,4.911,10276.369,0.357,False
+Niger,NER,Generous and trusting,0.947,4.725,1795.653,0.257,False
+Nigeria,NGA,"Close ties, weak trust and health",-0.108,4.885,7994.038,0.169,False
+Nicaragua,NIC,Generous and trusting,1.372,6.33,7661.094,0.281,False
+Netherlands,NLD,Generous and trusting,0.542,7.306,70493.905,0.405,False
+Norway,NOR,Generous and trusting,0.257,7.262,94803.67,0.407,False
+Nepal,NPL,Generous and trusting,0.692,5.311,5047.424,0.242,False
+New Zealand,NZL,Generous and trusting,0.495,6.952,48325.365,0.386,False
+Pakistan,PAK,"Long-lived, less free",0.079,4.768,5502.074,0.206,False
+Panama,PAN,"Close ties, weak trust and health",0.181,6.407,36394.924,0.284,False
+Peru,PER,"Close ties, weak trust and health",0.404,5.947,15708.833,0.259,False
+Philippines,PHL,"Close ties, weak trust and health",0.902,6.107,10378.172,0.277,False
+Poland,POL,"Close ties, weak trust and health",0.271,6.673,45153.044,0.284,False
+Portugal,PRT,"Close ties, weak trust and health",-0.334,6.013,42228.158,0.111,False
+Paraguay,PRY,"Close ties, weak trust and health",0.596,6.172,16367.494,0.345,False
+Romania,ROU,"Close ties, weak trust and health",0.25,6.563,40503.832,0.297,False
+Russian Federation,RUS,"Close ties, weak trust and health",-0.396,5.945,41891.172,0.379,False
+Saudi Arabia,SAU,"Close ties, weak trust and health",-0.075,6.6,63194.433,0.137,False
+Senegal,SEN,Generous and trusting,0.335,4.856,4477.817,0.152,False
+Singapore,SGP,Generous and trusting,-0.725,6.565,134548.764,0.186,False
+Sierra Leone,SLE,"Long-lived, less free",-1.224,2.998,3098.763,0.088,False
+El Salvador,SLV,Generous and trusting,1.193,6.492,11647.023,0.137,False
+Somalia,SOM,Generous and trusting,0.766,4.347,1409.335,0.231,False
+Serbia,SRB,"Close ties, weak trust and health",0.626,6.606,26900.742,0.275,False
+Slovakia,SVK,"Close ties, weak trust and health",-0.088,6.221,40302.451,0.416,False
+Slovenia,SVN,Generous and trusting,0.329,6.792,48658.027,-0.012,False
+Sweden,SWE,Generous and trusting,0.678,7.345,62558.407,0.376,False
+Eswatini,SWZ,"Close ties, weak trust and health",-1.432,3.774,10386.215,0.198,False
+Chad,TCD,Generous and trusting,0.36,4.384,2430.733,0.109,False
+Togo,TGO,"Long-lived, less free",0.03,4.315,3351.25,0.177,False
+Thailand,THA,Generous and trusting,0.41,6.222,21882.214,0.122,False
+Trinidad and Tobago,TTO,"Close ties, weak trust and health",-0.215,5.905,31960.157,0.421,False
+Tunisia,TUN,"Long-lived, less free",-0.822,4.552,12774.916,0.064,False
+Türkiye,TUR,"Long-lived, less free",-0.959,5.262,36154.49,0.151,False
+Tanzania,TZA,Generous and trusting,-0.569,3.8,3713.263,0.395,False
+Uganda,UGA,Generous and trusting,0.299,4.461,2879.67,0.117,False
+Ukraine,UKR,Generous and trusting,-0.896,4.68,16371.441,-0.013,False
+Uruguay,URY,"Close ties, weak trust and health",0.536,6.661,32149.48,0.262,False
+United States,USA,"Close ties, weak trust and health",-0.098,6.724,75698.177,0.167,False
+Uzbekistan,UZB,Generous and trusting,0.941,6.193,10997.171,0.323,False
+Viet Nam,VNM,Generous and trusting,0.88,6.352,14396.422,-0.004,False
+Kosovo,XKX,Generous and trusting,1.116,6.659,15716.293,0.235,False
+South Africa,ZAF,"Close ties, weak trust and health",-0.212,5.213,13597.654,0.405,False
+Zambia,ZMB,Generous and trusting,-0.456,3.912,3708.069,-0.037,False
+Zimbabwe,ZWE,"Close ties, weak trust and health",-1.249,3.396,5211.898,0.255,False
